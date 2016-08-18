@@ -1,0 +1,19 @@
+Personagem<>
+nome<Adriano Guerreiro>
+lv<2>
+hp<23>
+ca<15>
+ataque<5>
+dano<EspLarg(2d6)+4>SucessoDecisivo<19x2>
+iniciativa<2>
+fortitude<6>
+reflexos<0>
+vontade<0>
+for<16>
+des<14>
+con<16>
+int<12>
+sab<10>
+car<10>
+player<false>
+Personagem</>

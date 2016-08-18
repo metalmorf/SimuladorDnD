@@ -1,0 +1,27 @@
+Personagem<>
+nome<Esqueleto Combatente>
+lv<1>
+hp<6>
+ca<15>
+ataque<2>
+dano<Cimitarra(d6)+1>SucessoDecisivo<18x2>
+iniciativa<5>
+fortitude<0>
+reflexos<1>
+vontade<2>
+for<13>
+des<13>
+con<0>
+int<0>
+sab<10>
+car<1>
+player<false>
+HabilidadesClasse<>
+Redução de dano 5/concussão<BR/>
+Visao no escuro 18m<BR/>
+Imunidade a frio
+
+HabilidadesClasse</>
+
+
+Personagem</>

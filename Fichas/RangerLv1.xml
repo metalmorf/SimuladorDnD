@@ -1,0 +1,19 @@
+Personagem<>
+nome<Ranger Lv1>
+lv<1>
+hp<8>
+ca<16>
+ataque<4>
+dano<arco(d8)+0>SucessoDecisivo<19x2>
+iniciativa<3>
+fortitude<2>
+reflexos<5>
+vontade<0>
+for<12>
+des<16>
+con<10>
+int<10>
+sab<14>
+car<10>
+player<false>
+Personagem</>

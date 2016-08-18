@@ -1,0 +1,29 @@
+Personagem<>
+nome<Orc-lv2>
+lv<2>
+hp<12>
+ca<13>
+ataque<6>
+dano<Falcione(2d4)+6>SucessoDecisivo<18x2>
+iniciativa<0>
+fortitude<4>
+reflexos<0>
+vontade<-2>
+for<19>
+des<11>
+con<12>
+int<8>
+sab<7>
+car<6>
+player<false>
+
+HabilidadesClasse<>
+ 
+Azagaia +1 (d6+3)<BR/>
+Ouvir +1 , Observar +1
+
+HabilidadesClasse</>
+
+
+
+Personagem</>

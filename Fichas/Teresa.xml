@@ -1,0 +1,21 @@
+Personagem<>
+nome<Teresa>
+lv<3>
+hp<19>
+ca<17>
+ataque<5>
+dano<Sabre(d6)+2>SucessoDecisivo<18x2>
+iniciativa<4>
+fortitude<3>
+reflexos<7>
+vontade<2>
+for<14>
+des<18>
+con<12>
+int<14>
+sab<12>
+car<10>
+player<false>
+talentos<Especialização em arma(sabre),saque rápido,reflexos em combate>
+classe<Ladino>
+Personagem</>

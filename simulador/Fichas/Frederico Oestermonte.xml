@@ -1,0 +1,19 @@
+Personagem<>
+nome<Frederico Oestermonte>
+lv<2>
+hp<10>
+ca<12>
+ataque<4>
+dano<(d4)+1>SucessoDecisivo<19x2>
+iniciativa<2>
+fortitude<2>
+reflexos<2>
+vontade<4>
+for<11>
+des<14>
+con<14>
+int<17>
+sab<12>
+car<8>
+player<true>
+Personagem</>

@@ -1,0 +1,60 @@
+Personagem<>
+nome<teste>
+lv<3>
+hp<23>
+ca<16>
+ataque<4>
+dano<mac.estr.(d8)+2>SucessoDecisivo<20x3>
+iniciativa<2>
+fortitude<4>
+reflexos<3>
+vontade<8>
+for<14>
+des<14>
+con<12>
+int<12>
+sab<18>
+car<14>
+player<false>
+
+HabilidadesClasse<>
+nv0-   1 -   2<BR/> 
+ 4 - (3+1)-(2+1)<BR/> 
+Habilidades de clérigo:<BR/> 
+- Expulsar mortos vivos: 5 vezes ao dia<BR/> 
+cota de malha,pequeno de metal, MaçaEstrela<BR/> 
+
+<font color=red>Poderes concedidos:</font><br/>
+ <font color=blue>Dominio Morte:</font> Você pode usar o toque da morte uma vez por dia;
+ ele é uma habilidade sobrenatural que gera um efeito de morte.
+ É preciso realizar um ataque de toque corporal contra uma criatura
+ viva (usando regras para magias de toque). Caso acerte, jogue 1d6
+ por nível de clérigo. Se o total igualar ou superar os pontos de
+ vida do alvo, ele morre (sem testes de resistência)  <BR/>
+ <font color=blue>Dominio Proteção:</font> Você pode gerar um escudo de proteção, uma
+ habilidade sobrenatural que concede ao alvo tocado um bônus
+ de resistência no próximo teste de resistência igual ao seu 
+ nível de clérigo. Ativar este poder usa uma ação padrão. 
+ O escudo de proteção é um efeito de abjuração, com duração
+ de 1 hora, que pode ser usado uma vez por dia <br/> 
+
+
+
+
+
+<font color=red>Magias preparadas:</font><br/>
+<font color=blue>LV0:</font><br/> (*) (*) Detectar Magia ,  (*) Ler Magias , (*) Purificar alimentos<br/>
+<font color=blue>LV1:</font><br/> (*)Causar medo ,  (*)(*) Escudo da fé<br/>
+<font color=blue>LV2:</font><br/> (*) Arma espiritual ,(*) Força do touro<br/>
+<font color=red>Magias de Domínio(Morte e viagem):</font><br/>
+<font color=blue>LV1:</font><br/> (*) Santuário<br/>
+<font color=blue>LV2:</font><br/> (*) Proteger Outro <br/>
+
+
+
+
+
+HabilidadesClasse</>
+
+
+Personagem</>

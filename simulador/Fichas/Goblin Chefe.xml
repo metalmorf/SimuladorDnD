@@ -1,0 +1,19 @@
+Personagem<>
+nome<Goblin Chefe>
+lv<3>
+hp<27>
+ca<15>
+ataque<4>
+dano<Mac.estr(d6)+6/ Azag(d4)+3>SucessoDecisivo<20x3>
+iniciativa<1>
+fortitude<4>
+reflexos<2>
+vontade<0>
+for<11>
+des<13>
+con<12>
+int<10>
+sab<9>
+car<6>
+player<false>
+Personagem</>

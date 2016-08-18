@@ -1,0 +1,37 @@
+Personagem<>
+nome<Elemental da agua medio>
+lv<3>
+hp<30>
+ca<19>
+ataque<6>
+dano<pancada(d8)+4>SucessoDecisivo<19x2>
+iniciativa<1>
+fortitude<7>
+reflexos<2>
+vontade<1>
+for<16>
+des<12>
+con<17>
+int<4>
+sab<11>
+car<11>
+player<false>
+Personagem</>
+
+
+HabilidadesClasse<>
+ 
+Talentos: Trespassar, Ataque poderoso<BR/>
+Ouvir +3 , Observar +4<BR/><BR/>
+
+
+<font color=red>Habilidades:</font><br/>
+
+<font color=blue>Maestria aquática: +1 no ataque e dano quando os adversários estiverem em contato com a água <font><BR/><BR/>
+<font color=blue>Enxurrada: O toque do elemental pode apagar tochas, fogueiras, lampiões(mas não mágica). Podem dissipar qualquer fogo mágico com a magia dissipar ND de conjurador= Dvs do elemental<font><BR/><BR/>
+<font color=blue>Vórtice: O elemental pode transformar-se em um redemoinho 1x a cada 10 minutos. Reflexos CD 15(se rodar a primeira vez toma 1D6 de dano) e o jogador deve realizar outro teste de Reflexos CD15 para ver se será arrastado pelo vortice. Uma ves pego, para escapar do vórtice a vítima deve realizar um teste de natação, contra um teste de força do elemental ver pagina 105 livro dos monstros  <font><BR/>
+
+
+
+
+HabilidadesClasse</>

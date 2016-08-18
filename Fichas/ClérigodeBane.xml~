@@ -1,0 +1,58 @@
+Personagem<>
+nome<ClerigodeBane>
+lv<6>
+hp<50>
+ca<18>
+ataque<7>
+dano<mac.estr.(d8)+2>SucessoDecisivo<20x3>
+iniciativa<2>
+fortitude<5>
+reflexos<4>
+vontade<9>
+for<14>
+des<12>
+con<12>
+int<12>
+sab<18>
+car<14>
+player<false>
+HabilidadesClasse<>
+<font color=red>Quantidade de magias:</font><br/>
+nv0-   1-   2  -  3<br/>
+ 5-(4+1)-(4+1)-(3+1)<br/>
+<font color=red>Equipamentos:</font><br/>
+-cota de malha<br/>
+-escudo grande de metal<br/>
+-MaçaEstrela obraprima<br/>
+-Anel +1 na CA<br/>
+-Colar +2 sabedoria<br/>
+-Capa +4 esconderse +2 furtividade<br/>
+<font color=red>Talentos:</font><br/>
+Foco em necromancia, foco em necromancia maior<br/>
+
+<font color=red>Poderes concedidos:</font><br/>
+ <font color=blue>Dominio Destruição:</font> Uma vez por dia você ganha o poder de Destruir,
+ uma habilidade sobrenatural; pode-se realizar um único ataque
+ corpo a corpo com +4 de bônus na jogada de ataque e um modificador
+ de dano equivalente ao seu nível de clérigo (caso você acerte).
+ Você precisa declarar o uso do poder antes de fazer a jogada de
+ ataque<BR/>
+<font color=blue>Dominio Mal:</font> Você pode conjurar magias do mal com +1
+ no nível de conjurador<br/> 
+
+
+<font color=red>Magias preparadas:</font><br/>
+<font color=blue>LV0:</font><br/> (*) (*) (*) Detectar Magia ,  (*)(*) Ler Magias<br/><BR/>
+<font color=blue>LV1:</font><br/> (*) (*) Causar medo ,  (*) Escudo da fé ,  (*) Escudo entrópico<br/><BR/>
+<font color=blue>LV2:</font><br/> (*) Arma espiritual , (*)Explosão sonora ,  (*) Força do touro ,  (*) Imobilizar pessoas<br/><BR/>
+<font color=blue>LV3:</font><br/> (*) Praga ,  (*)(*) Rogar maldição<br/><BR/>
+<font color=red>Magias de Domínio(Mal e Destruição):</font><br/>
+<font color=blue>LV1:</font><br/> (*) Proteção contra o bem<br/><BR/>
+<font color=blue>LV2:</font><br/> (*) Profanar <br/><BR/>
+<font color=blue>LV3:</font><br/> (*) Praga<br/>
+
+
+HabilidadesClasse</>
+
+
+Personagem</>

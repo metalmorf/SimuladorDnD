@@ -1,0 +1,20 @@
+Personagem<>
+nome<Alvin barba Ruiva>
+lv<4>
+hp<48>
+ca<19>
+ataque<8>
+dano<EspBastarda(d10)+4>SucessoDecisivo<19x2>
+iniciativa<1>
+fortitude<7>
+reflexos<2>
+vontade<4>
+for<16>
+des<12>
+con<16>
+int<12>
+sab<12>
+car<10>
+player<false>
+talentos<vontade_de_ferro,foco_em_arma_espada_bastarda,Esquiva,Competencia_com_arma_Exótica_EspBastarda>
+Personagem</>

@@ -1,0 +1,38 @@
+Personagem<>
+nome<OgroMago>
+lv<8>
+hp<37>
+ca<18>
+ataque<2>
+dano<Arcolongo(2d6)+0>SucessoDecisivo<20x3>
+iniciativa<4>
+fortitude<7>
+reflexos<1>
+vontade<3>
+for<21>
+des<10>
+con<17>
+int<14>
+sab<14>
+car<17>
+player<false>
+Personagem</>
+
+
+HabilidadesClasse<>
+ 
+Ataque corpo a corpo Espada larga +7 (3d6)+7  suc. decisivo=19-20x3<BR/><BR/>
+
+
+<font color=blue>Vôo<font><BR/>
+
+<font color=red>Habilidade similar a magia:</font><br/>
+
+<font color=blue>(*)Cone glacial 1d6/nível de frio alcance explosão em cone 18m reflexos cd18 toma metade<font><BR/><BR/>
+<font color=blue>(*)Enfeitiçar pessoa torna uma pessoa amigável alcance 7,5m+1,5/2niv  vontade cd 14 1hora nível<font><BR/><BR/>
+<font color=blue>(*)Forma gasosa: O alvo fica incorpóreo e pode voar lentamente<font><BR/>
+
+
+
+
+HabilidadesClasse</>

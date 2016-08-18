@@ -1,0 +1,19 @@
+Personagem<>
+nome<Goblin>
+lv<1>
+hp<5>
+ca<15>
+ataque<2>
+dano<Mac.estr.(d6)+6/ Azag(d4)+3>SucessoDecisivo<20x3>
+iniciativa<1>
+fortitude<3>
+reflexos<1>
+vontade<-1>
+for<11>
+des<13>
+con<12>
+int<10>
+sab<9>
+car<6>
+player<false>
+Personagem</>
